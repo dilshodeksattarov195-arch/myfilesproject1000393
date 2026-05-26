@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authualculate",
+        "uuid": 390249,
+        "checksum": "sswis"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
